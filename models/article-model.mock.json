@@ -1,0 +1,114 @@
+{
+  "_id": 17,
+  "author": {
+    "userId": 1,
+    "name": "Manu Cutillas"
+  },
+  "metadata": {
+    "img": "url",
+    "author": "",
+    "url": "",
+    "ttl": { // hidden ttl model element
+      // "Cache-Control": "max-age=86400, s-maxage=150"
+      "s_maxage": {
+        "_id": 234,
+        "value": 150
+      },
+      "max_age": {
+        "_id": 234,
+        "value": 150
+      },
+      "x_cache": "HIT" // HIT, EXPIRED, MISS  ejem:"X-Cache": "HIT"
+    }
+  },
+  "img_head": [
+    {
+      "_id": 0,
+      "author": "Manu Cutillas",
+      "name": "picture name",
+      "formats": {
+        "original": "ame-atcl-id-original-size.jpeg",
+        "xl_img_1600_jpeg": "name-atcl-id-xl-1600.jpeg",
+        "xl_img_1600_webp": "name-atcl-xl-1600.webp",
+        "lg_img_1024_jpeg": "name-atcl-xl-1024.jpeg",
+        "lg_img_1024_webp": "name-atcl-xl-1024.webp",
+        "md_img_800_jpeg": "name-atcl-md-800.jpeg",
+        "md_img_800_webp": "name-atcl-md-800.webp",
+        "sm_img_640_jpeg": "name-atcl-640.jpeg",
+        "sm_img_640_webp": "name-atcl-640.webp",
+        "xs_img_320_jpeg": "name-atcl-320.jpeg",
+        "xs_img_320_webp": "name-atcl-320.webp",
+        "square_img_150_jpeg": "name-atcl-150.jpeg",
+        "square_img_150_webp": "name-atcl-150.webp",
+        "square_img_75_jpeg": "name-atcl-75.jpeg",
+        "square_img_75_webp": "name-atcl-75.webp",
+        "min_img_100": "name-atcl-100.jpeg"
+      },
+      "placeholders": {
+        "xl_jpeg": "name-atcl-placeholder-xl.jpeg",
+        "xl_webp": "name-atcl-placeholder-xl.webp",
+        "lg_jpeg": "name-atcl-placeholder-lg.jpeg",
+        "lg_webp": "name-atcl-placeholder-lg.webp",
+        "md_jpeg": "name-atcl-placeholder-md.jpeg",
+        "md_webp": "name-atcl-placeholder-md.webp",
+        "sm_jpeg": "name-atcl-placeholder-sm.jpeg",
+        "sm_webp": "name-atcl-placeholder-sm.webp",
+        "xs_jpeg": "name-atcl-placeholder-xs.jpeg",
+        "xs_webp": "name-atcl-placeholder-xs.webp",
+        "square_jpeg": "name-atcl-placeholder-square.jpeg",
+        "square_webp": "name-atcl-placeholder-square.webp",
+        "min_webp": "name-atcl-placeholder-min.jpeg"
+      },
+      "alt": "title",
+      "created_at": "2016-04-24 19:36:19",
+      "updated_at": "2016-04-24 19:36:20"
+    }
+  ],
+  "locale": [
+    {
+      "iso": "es", // ISO 639-1
+      "data": {
+        "title": "This is the article title",
+        "description": "This is the article description",
+        "content": "My content",
+        "published": 3,
+        "categories": [],
+        "keywords": "keyword1, keyword2",
+        "slug": "the slug",
+        "created_at": "2016-04-24 19:36:19",
+        "updated_at": "2016-04-24 19:36:20"
+      }
+    },
+    {
+      "iso": "en", // ISO 639-1
+      "data": {
+        "title": "This is the article title",
+        "description": "This is the article description",
+        "content": "My content",
+        "published": 0,
+        "categories": [],
+        "keywords": "keyword1, keyword2",
+        "slug": "the slug",
+        "created_at": "2016-04-24 19:36:19",
+        "updated_at": "2016-04-24 19:36:20"
+      }
+    }
+  ],
+  "type": 0,
+  "likes": {
+    "_id": 1,
+    "count": 134,
+    "users": [123, 3323,332,233,233,244]
+  },
+  "subscriptions":{
+    "_id": 1,
+    "count": 134,
+    "users": [123, 3323,332,233,233,244]
+  },
+  "visits": {
+    "count": 123,
+    "users_logged": [33,2312,33,23,2321,2313,1313]
+  },
+  "created_at": "2016-04-24 19:36:19",
+  "updated_at": "2016-04-24 19:36:20"
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 1,
+  "code": "NODE_JS",
+  "parent_id": 2,
+  "childs_id": [2,43,21],
+  "locale": [
+    {
+      "iso": "es",
+      "value": "NodeJS"
+    },
+    {
+      "iso": "en",
+      "value": "NodeJS"
+    }
+  ],
+  "created_at": "2016-04-24 19:36:19",
+  "updated_at": "2016-04-24 19:36:20"
+}

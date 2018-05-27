@@ -1,0 +1,129 @@
+{
+  "_id": 0,
+  "name": "value",
+  "surname": "value",
+  "username": "value",
+  "uspw": "value", // user password -> hiden in response.
+  "email": "email",
+  "img_head": {
+    "_id": 0,
+    "author": "Manu Cutillas",
+    "name": "picture name",
+    "formats": {
+      "original": "name-uhead-id-original-size.jpeg",
+      "xl_img_1600_jpeg": "name-uhead-id-xl-1600.jpeg",
+      "xl_img_1600_webp": "name-uhead-xl-1600.webp",
+      "lg_img_1024_jpeg": "name-uhead-xl-1024.jpeg",
+      "lg_img_1024_webp": "name-uhead-xl-1024.webp",
+      "md_img_800_jpeg": "name-uhead-md-800.jpeg",
+      "md_img_800_webp": "name-uhead-md-800.webp",
+      "sm_img_640_jpeg": "name-uhead-sm-640.jpeg",
+      "sm_img_640_webp": "name-uhead-sm-640.webp",
+      "xs_img_320_jpeg": "name-uhead-xs320.jpeg",
+      "xs_img_320_webp": "name-uhead-xs-320.webp",
+      "square_img_150_jpeg": "name-uhead-sq-150.jpeg",
+      "square_img_150_webp": "name-uhead-sq-150.webp",
+      "square_img_75_jpeg": "name-uhead-sq-75.jpeg",
+      "square_img_75_webp": "name-uhead-sq-75.webp",
+      "min_img_100": "name-uhead-min-100.jpeg"
+    },
+    "placeholders": {
+      "xl_jpeg": "name-uhead-placeholder-xl.jpeg",
+      "xl_webp": "name-uhead-placeholder-xl.webp",
+      "lg_jpeg": "name-uhead-placeholder-lg.jpeg",
+      "lg_webp": "name-uhead-placeholder-lg.webp",
+      "md_jpeg": "name-uhead-placeholder-md.jpeg",
+      "md_webp": "name-uhead-placeholder-md.webp",
+      "sm_jpeg": "name-uhead-placeholder-sm.jpeg",
+      "sm_webp": "name-uhead-placeholder-sm.webp",
+      "xs_jpeg": "name-uhead-placeholder-xs.jpeg",
+      "xs_webp": "name-uhead-placeholder-xs.webp",
+      "square_jpeg": "name-uhead-placeholder-sq.jpeg",
+      "square_webp": "name-uhead-placeholder-sq.webp",
+      "min_webp": "name-uhead-placeholder-min.jpeg"
+    },
+    "alt": "title",
+    "created_at": "2016-04-24 19:36:19",
+    "updated_at": "2016-04-24 19:36:20"
+  },
+  "avatar": {
+    "_id": 0,
+    "author": "Manu Cutillas",
+    "name": "picture name",
+    "formats": {
+      "original": "ame-atcl-id-original-size.jpeg",
+      "xs_img_320_jpeg": "name-uavatar-320.jpeg",
+      "xs_img_320_webp": "name-uavatar-320.webp",
+      "square_img_150_jpeg": "name-uavatar-150.jpeg",
+      "square_img_150_webp": "name-uavatar-150.webp",
+      "square_img_75_jpeg": "name-uavatar-75.jpeg",
+      "square_img_75_webp": "name-uavatar-75.webp",
+      "min_img_100": "name-uavatar-100.jpeg"
+    },
+    "placeholders": {
+      "xs_jpeg": "name-uavatar-placeholder-xs.jpeg",
+      "xs_webp": "name-uavatar-placeholder-xs.webp",
+      "square_jpeg": "name-uavatar-placeholder-square.jpeg",
+      "square_webp": "name-uavatar-placeholder-square.webp",
+      "min_webp": "name-uavatar-placeholder-min.jpeg"
+    },
+    "alt": "title",
+    "created_at": "2016-04-24 19:36:19",
+    "updated_at": "2016-04-24 19:36:20"
+  },
+  "devices": [
+    {
+      "_id": 3,
+      "device_id": 34,
+      "code": "MOBILE",
+      "localize": [
+        {
+          "iso": "es",
+          "value": "name"
+        },
+        {
+          "iso": "en",
+          "value": "name"
+        }
+      ],
+      "os": {
+        "code": "APPLE",
+        "value": "IOS"
+      },
+      "ip": "ip address",
+      "latlog": "2016-04-24 19:36:19"
+    },
+    {
+      "_id": 4,
+      "device_id": 2,
+      "code": "DESKTOP",
+      "localize": [
+        {
+          "iso": "es",
+          "value": "name"
+        },
+        {
+          "iso": "en",
+          "value": "name"
+        }
+      ],
+      "os": {
+        "code": "WIN_10",
+        "value": "Windows 10"
+      },
+      "ip": "ip address",
+      "latlog": "2016-04-24 19:36:19"
+    }
+  ],
+  "likes": {
+    "count": 134,
+    "articles": [123, 3323,332,233,233,244]
+  },
+  "subscriptions":{
+    "count": 123,
+    "tags": [123, 3323,332,233,233,244]
+  },
+  "latest_visit": "2016-04-24 19:36:19",
+  "created_at": "2016-04-24 19:36:19",
+  "updated_at": "2016-04-24 19:36:20"
+}
